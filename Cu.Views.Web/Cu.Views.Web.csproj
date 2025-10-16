@@ -10,4 +10,8 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Wba.Oefening.Students\Wba.Oefening.Students.Web.Students.Core\Wba.Oefening.Students.Web.Students.Core.csproj" />
+  </ItemGroup>
+
 </Project>

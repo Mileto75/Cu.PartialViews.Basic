@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cu.Views.Web", "Cu.Views.Web\Cu.Views.Web.csproj", "{54CD9D4F-B128-46E4-B5E2-216CB77B3C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wba.Oefening.Students.Web.Students.Core", "..\Wba.Oefening.Students\Wba.Oefening.Students.Web.Students.Core\Wba.Oefening.Students.Web.Students.Core.csproj", "{A23A8960-D409-9694-6E80-FE263C66A026}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{54CD9D4F-B128-46E4-B5E2-216CB77B3C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54CD9D4F-B128-46E4-B5E2-216CB77B3C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54CD9D4F-B128-46E4-B5E2-216CB77B3C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23A8960-D409-9694-6E80-FE263C66A026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23A8960-D409-9694-6E80-FE263C66A026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23A8960-D409-9694-6E80-FE263C66A026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23A8960-D409-9694-6E80-FE263C66A026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
